@@ -1,0 +1,47 @@
+%\documentclass{article}
+\documentclass{tufte-handout}
+
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{booktabs}
+
+\setcounter{tocdepth}{1}
+\setcounter{secnumdepth}{0}
+
+\newenvironment{itemize*}%
+  {\begin{itemize}%
+    \setlength{\itemsep}{0pt}%
+    \setlength{\parskip}{0pt}}%
+  {\end{itemize}}
+	
+\newenvironment{enumerate*}%
+  {\begin{enumerate}%
+    \setlength{\itemsep}{0pt}%
+    \setlength{\parskip}{0pt}}%
+  {\end{enumerate}}
+
+\title{Ecotopias \\ ID1 Course Syllabus}
+\author{Marc Los Huertos}
+
+% \date{}  % Remove command to get current date
+
+\usepackage{Sweave}
+\begin{document}
+\input{Syllabus_v01-concordance}
+%\thispagestyle{empty}
+
+\maketitle
+
+\tableofcontents
+
+\setcounter{page}{1}
+\pagenumbering{arabic}
+
+\input{Course_Description}
+%\input{Schedule2015}
+%\input{Activities2016}
+\input{Schedule}
+
+
+\end{document}

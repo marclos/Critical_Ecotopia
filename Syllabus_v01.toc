@@ -1,0 +1,65 @@
+\contentsline {section}{Course Description}{1}{section*.1}
+\contentsline {section}{Rationale}{2}{section*.2}
+\contentsline {section}{Goals}{2}{section*.3}
+\contentsline {paragraph}{Course Learning Outcomes}{2}{paragraph*.4}
+\contentsline {section}{Instructor Information}{3}{section*.5}
+\contentsline {section}{Meeting Times and Location}{3}{section*.6}
+\contentsline {section}{Course Resources}{3}{section*.7}
+\contentsline {section}{Writing Resources}{3}{section*.8}
+\contentsline {section}{Library Resources}{4}{section*.9}
+\contentsline {section}{Important Dates}{4}{section*.10}
+\contentsline {section}{Learning Diversity Accommodations}{4}{section*.11}
+\contentsline {section}{Course Improvement}{4}{section*.12}
+\contentsline {section}{Grading}{5}{section*.13}
+\contentsline {subsection}{Allocation of Points}{5}{subsection*.14}
+\contentsline {subsection}{Participation}{5}{subsection*.15}
+\contentsline {subsection}{Letter Grades}{6}{subsection*.16}
+\contentsline {paragraph}{Extra Credit}{7}{paragraph*.17}
+\contentsline {paragraph}{What is plagiarism?}{7}{paragraph*.18}
+\contentsline {section}{Proposed Reading \& Seminar Schedule}{8}{section*.19}
+\contentsline {subsection}{\textbf {Week 1}: My Ecotopia}{8}{subsection*.20}
+\contentsline {paragraph}{Seminar --- Tuesday, August 30}{8}{paragraph*.21}
+\contentsline {paragraph}{Seminar --- Thursday, September 1}{8}{paragraph*.22}
+\contentsline {subsection}{\textbf {Week 2}: Freshwater Habitat and Resource Decision Making}{8}{subsection*.23}
+\contentsline {paragraph}{Seminar --- Tuesday, September 6}{8}{paragraph*.24}
+\contentsline {paragraph}{Seminar --- Thursday, September 8}{8}{paragraph*.25}
+\contentsline {subsection}{\textbf {Week 3}: Habitat Quality}{8}{subsection*.26}
+\contentsline {paragraph}{Seminar --- Tuesday, September 13}{8}{paragraph*.27}
+\contentsline {paragraph}{Seminar --- Thursday, September 15}{9}{paragraph*.28}
+\contentsline {subsection}{\textbf {Week 4}: Community Profiling using Molecular Biology Tools}{9}{subsection*.29}
+\contentsline {paragraph}{Seminar --- Tuesday, September 20}{9}{paragraph*.30}
+\contentsline {paragraph}{Seminar --- Thursday, September 22}{9}{paragraph*.31}
+\contentsline {subsection}{\textbf {Week 5}: Knowledge Production and Litigation}{9}{subsection*.32}
+\contentsline {paragraph}{Seminar --- Tuesday, September 27}{9}{paragraph*.33}
+\contentsline {paragraph}{Seminar --- Thursday, September 29}{9}{paragraph*.34}
+\contentsline {subsection}{\textbf {Week 6}: Environmental Health and Risks}{9}{subsection*.35}
+\contentsline {paragraph}{Seminar --- Tuesday, October 4}{9}{paragraph*.36}
+\contentsline {paragraph}{Seminar --- Thursday, October 6}{9}{paragraph*.37}
+\contentsline {subsection}{\textbf {Week 7:} Environmental Health Hazards}{9}{subsection*.38}
+\contentsline {paragraph}{Seminar --- Tuesday, October 11}{9}{paragraph*.39}
+\contentsline {paragraph}{Seminar --- Thursday, October 13}{10}{paragraph*.40}
+\contentsline {subsection}{\textbf {Week 8}: Hazards and Class}{10}{subsection*.41}
+\contentsline {paragraph}{Fall Recess --- Tuesday, October 18}{10}{paragraph*.42}
+\contentsline {paragraph}{Seminar --- Thursday, October 20}{10}{paragraph*.43}
+\contentsline {subsection}{\textbf {Week 9:} Risk and Clusters}{10}{subsection*.44}
+\contentsline {paragraph}{Seminar --- Tuesday, October 25}{10}{paragraph*.45}
+\contentsline {paragraph}{Seminar --- Thursday, October 27}{10}{paragraph*.46}
+\contentsline {subsection}{\textbf {Week 10:} Mapping the Environment}{10}{subsection*.47}
+\contentsline {paragraph}{Seminar --- Tuesday, November 1}{10}{paragraph*.48}
+\contentsline {paragraph}{Seminar --- Thursday, November 3}{10}{paragraph*.49}
+\contentsline {subsection}{\textbf {Week 11}: Epistemology and the Environment}{10}{subsection*.50}
+\contentsline {paragraph}{Seminar --- Tuesday, November 8}{10}{paragraph*.51}
+\contentsline {paragraph}{Seminar --- Thursday, November 10}{11}{paragraph*.52}
+\contentsline {subsection}{\textbf {Week 12}: Temperature Records}{11}{subsection*.53}
+\contentsline {paragraph}{Seminar --- Tuesday, November 15}{11}{paragraph*.54}
+\contentsline {paragraph}{Seminar --- Thursday, November 17}{11}{paragraph*.55}
+\contentsline {subsection}{\textbf {Week 13}: Tensions}{11}{subsection*.56}
+\contentsline {paragraph}{Seminar --- Tuesday, November 22}{11}{paragraph*.57}
+\contentsline {paragraph}{Thanksgiving Recess --- Thursday, November 24}{11}{paragraph*.58}
+\contentsline {subsection}{\textbf {Week 14}: Use and Abuse of Data in Environmental Science}{11}{subsection*.59}
+\contentsline {paragraph}{Seminar --- Tuesday, November 29}{11}{paragraph*.60}
+\contentsline {paragraph}{Seminar --- Thursday, December 1}{11}{paragraph*.61}
+\contentsline {subsection}{\textbf {Week 15}: Critical Utopia}{11}{subsection*.62}
+\contentsline {paragraph}{Seminar --- Tuesday, December 6}{11}{paragraph*.63}
+\contentsline {paragraph}{Final Paper Due --- Wednesday, December 7}{11}{paragraph*.64}
+\contentsfinish 
