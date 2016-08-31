@@ -1,4 +1,4 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2015.10.2)  29 AUG 2016 23:49
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2015.10.2)  30 AUG 2016 23:25
 entering extended mode
  %&-line parsing enabled.
 **Syllabus_v01.tex
@@ -624,52 +624,62 @@ LaTeX Info: Redefining \selectfont on input line 30.
 \openout5 = `Syllabus_v01.toc'.
 
  (./Course_Description.tex
+LaTeX Font Info:    Try loading font information for OT1+pplx on input line 13.
+
+(/usr/share/texmf/tex/latex/psnfss/ot1pplx.fd
+File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
+)
+LaTeX Font Info:    Try loading font information for OML+zplm on input line 13.
+
+
+(/usr/share/texmf/tex/latex/psnfss/omlzplm.fd
+File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMS+zplm on input line 13.
+
+
+(/usr/share/texmf/tex/latex/psnfss/omszplm.fd
+File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
+)
+LaTeX Font Info:    Try loading font information for OMX+zplm on input line 13.
+
+
+(/usr/share/texmf/tex/latex/psnfss/omxzplm.fd
+File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
+)
+LaTeX Font Info:    Try loading font information for OT1+zplm on input line 13.
+
+
+(/usr/share/texmf/tex/latex/psnfss/ot1zplm.fd
+File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
+)
 Overfull \hbox (8.54544pt too wide) in paragraph at lines 13--14
 \T1/aer/m/n/10 We be-gin a jour-ney to ex-plore pos-si-ble fu-tures for this hu
 man-dominated 
  []
 
+
+LaTeX Warning: Marginpar on page 1 moved.
+
 [1
 
 {/usr/share/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Try loading font information for TS1+aer on input line 32.
 
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+
+LaTeX Warning: Marginpar on page 2 moved.
+
+LaTeX Font Info:    Try loading font information for TS1+aer on input line 32.
 (/usr/share/R/texmf/tex/latex/ts1aer.fd
 File: ts1aer.fd 
 )
 LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <10> not available
 (Font)              Font shape `TS1/cmr/m/n' tried instead on input line 32.
  [2]
-LaTeX Font Info:    Try loading font information for OT1+pplx on input line 54.
-
-
-(/usr/share/texmf/tex/latex/psnfss/ot1pplx.fd
-File: ot1pplx.fd 2004/09/06 font definitions for OT1/pplx.
-)
-LaTeX Font Info:    Try loading font information for OML+zplm on input line 54.
-
-
-(/usr/share/texmf/tex/latex/psnfss/omlzplm.fd
-File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
-)
-LaTeX Font Info:    Try loading font information for OMS+zplm on input line 54.
-
-
-(/usr/share/texmf/tex/latex/psnfss/omszplm.fd
-File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
-)
-LaTeX Font Info:    Try loading font information for OMX+zplm on input line 54.
-
-
-(/usr/share/texmf/tex/latex/psnfss/omxzplm.fd
-File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
-)
-LaTeX Font Info:    Try loading font information for OT1+zplm on input line 54.
-
-
-(/usr/share/texmf/tex/latex/psnfss/ot1zplm.fd
-File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
-)
 
 LaTeX Warning: Marginpar on page 3 moved.
 
@@ -683,7 +693,17 @@ LaTeX Font Info:    Try loading font information for T1+aett on input line 104.
 
 (/usr/share/texmf/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
-) [3]
+)
+
+LaTeX Warning: Marginpar on page 3 moved.
+
+
+LaTeX Warning: Marginpar on page 3 moved.
+
+[3]
+
+LaTeX Warning: Marginpar on page 4 moved.
+
 
 LaTeX Warning: Marginpar on page 4 moved.
 
@@ -696,10 +716,10 @@ Overfull \hbox (26.49693pt too wide) in paragraph at lines 142--156
 [][] 
  []
 
-
-LaTeX Warning: Marginpar on page 5 moved.
-
 [5]
+
+LaTeX Warning: Marginpar on page 6 moved.
+
 
 LaTeX Warning: Marginpar on page 6 moved.
 
@@ -710,10 +730,14 @@ LaTeX Warning: Marginpar on page 6 moved.
 
 LaTeX Warning: Marginpar on page 7 moved.
 
-) (./Schedule.tex [7] [8
+) (./Schedule.tex [7]
+
+LaTeX Warning: Marginpar on page 8 moved.
+
+[8
 
 ]
-Overfull \hbox (15.06676pt too wide) in paragraph at lines 111--112
+Overfull \hbox (15.06676pt too wide) in paragraph at lines 113--114
 []\T1/aer/m/n/10 Le Guin, U. 19XX Dis-pos-sessed. Harper Collins. ISBN: 9780061
 054884.  
  []
@@ -732,7 +756,7 @@ Here is how much of TeX's memory you used:
  11110 multiletter control sequences out of 10000+200000
  59231 words of font info for 109 fonts, out of 1200000 for 2000
  645 hyphenation exceptions out of 8191
- 46i,12n,45p,1051b,423s stack positions out of 5000i,500n,6000p,200000b,15000s
+ 46i,11n,45p,1166b,421s stack positions out of 5000i,500n,6000p,200000b,15000s
 {/usr/share/texmf/fonts/enc/dvips/base/8r.enc} </home/CAM
 PUS/mwl04747/.texlive2007/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1000.600pk>
 </usr/share/texmf/fonts/type1/bluesky/cm/cmbx10.pfb></usr/share/texmf/fonts/typ
@@ -744,7 +768,7 @@ uesky/cm/cmr8.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmsy10.pfb></usr/sha
 re/texmf/fonts/type1/bluesky/cm/cmti10.pfb></usr/share/texmf/fonts/type1/bluesk
 y/cm/cmti12.pfb></usr/share/texmf/fonts/type1/bluesky/cm/cmtt10.pfb></usr/share
 /texmf/fonts/type1/urw/palatino/uplr8a.pfb>
-Output written on Syllabus_v01.pdf (11 pages, 146351 bytes).
+Output written on Syllabus_v01.pdf (11 pages, 152967 bytes).
 PDF statistics:
  271 PDF objects out of 1000 (max. 8388607)
  76 named destinations out of 1000 (max. 131072)

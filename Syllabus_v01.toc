@@ -26,17 +26,17 @@
 \contentsline {subsection}{\textbf {Week 3}: Ecotopia Exploreed}{8}{subsection*.26}
 \contentsline {paragraph}{Tuesday, September 13}{8}{paragraph*.27}
 \contentsline {paragraph}{Thursday, September 15}{8}{paragraph*.28}
-\contentsline {subsection}{\textbf {Week 4}: Ecotopia and Resilience}{8}{subsection*.29}
-\contentsline {paragraph}{Tuesday, September 20}{8}{paragraph*.30}
+\contentsline {subsection}{\textbf {Week 4}: Ecotopia and Resilience}{9}{subsection*.29}
+\contentsline {paragraph}{Tuesday, September 20}{9}{paragraph*.30}
 \contentsline {paragraph}{Thursday, September 22}{9}{paragraph*.31}
 \contentsline {subsection}{\textbf {Week 5}: More's Utopia}{9}{subsection*.32}
 \contentsline {subsection}{\textbf {Week 6}: Environmental Health and Risks}{9}{subsection*.33}
 \contentsline {paragraph}{Tuesday, October 4---Readings:}{9}{paragraph*.34}
 \contentsline {subsection}{\textbf {Week 7:} Moore Ecotopias}{9}{subsection*.35}
 \contentsline {paragraph}{Tuesday, October 11}{9}{paragraph*.36}
-\contentsline {paragraph}{Thursday, October 13}{9}{paragraph*.37}
-\contentsline {subsection}{\textbf {Week 8}: Information Sciences -- A Question of Utopia}{9}{subsection*.38}
-\contentsline {paragraph}{Fall Recess --- Tuesday, October 18}{9}{paragraph*.39}
+\contentsline {paragraph}{Thursday, October 13}{10}{paragraph*.37}
+\contentsline {subsection}{\textbf {Week 8}: Information Sciences -- A Question of Utopia}{10}{subsection*.38}
+\contentsline {paragraph}{Fall Recess --- Tuesday, October 18}{10}{paragraph*.39}
 \contentsline {paragraph}{Thursday, October 20}{10}{paragraph*.40}
 \contentsline {subsection}{\textbf {Week 9:} Anti-Utopia}{10}{subsection*.41}
 \contentsline {paragraph}{Tuesday, October 25}{10}{paragraph*.42}
@@ -46,10 +46,10 @@
 \contentsline {paragraph}{Thursday, November 3}{10}{paragraph*.46}
 \contentsline {subsection}{\textbf {Week 11}: The Tension}{10}{subsection*.47}
 \contentsline {paragraph}{Tuesday, November 8}{10}{paragraph*.48}
-\contentsline {paragraph}{Thursday, November 10}{10}{paragraph*.49}
-\contentsline {subsection}{\textbf {Week 12}: Critical Utopia}{10}{subsection*.50}
-\contentsline {paragraph}{Seminar --- Tuesday, November 15}{10}{paragraph*.51}
-\contentsline {paragraph}{Seminar --- Thursday, November 17}{10}{paragraph*.52}
+\contentsline {paragraph}{Thursday, November 10}{11}{paragraph*.49}
+\contentsline {subsection}{\textbf {Week 12}: Critical Utopia}{11}{subsection*.50}
+\contentsline {paragraph}{Seminar --- Tuesday, November 15}{11}{paragraph*.51}
+\contentsline {paragraph}{Seminar --- Thursday, November 17}{11}{paragraph*.52}
 \contentsline {subsection}{\textbf {Week 13}: Tensions}{11}{subsection*.53}
 \contentsline {paragraph}{Seminar --- Tuesday, November 22}{11}{paragraph*.54}
 \contentsline {paragraph}{Thanksgiving Recess --- Thursday, November 24}{11}{paragraph*.55}
@@ -58,5 +58,5 @@
 \contentsline {paragraph}{Seminar --- Thursday, December 1}{11}{paragraph*.58}
 \contentsline {subsection}{\textbf {Week 15}: Critical Utopia}{11}{subsection*.59}
 \contentsline {paragraph}{Seminar --- Tuesday, December 6}{11}{paragraph*.60}
-\contentsline {paragraph}{Final Paper Due --- Wednesday, December 7}{11}{paragraph*.61}
+\contentsline {paragraph}{\relax $\@@underline {\hbox {Final Paper Due:}}\mathsurround \z@ $\relax Wednesday, December 7}{11}{paragraph*.61}
 \contentsfinish 
